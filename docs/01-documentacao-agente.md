@@ -5,17 +5,17 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+A insegurança e a falta de conhecimento na hora de pagar contas ou comprar. As pessoas perdem dinheiro porque não entendem a lógica dos juros e descontos, sentindo-se intimidadas pela linguagem complicada dos bancos.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+Atuando como um professor particular que traduz as finanças. Ele usa os dados reais do usuário para explicar a lógica por trás de cada operação em linguagem simples. O agente ensina a "estratégia", mas nunca dá ordens ou sugestões, garantindo que o usuário aprenda a decidir sozinho.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Pessoas que não entendem de finanças e buscam autonomia. É para quem quer aprender a cuidar do próprio dinheiro sem depender de fórmulas prontas ou consultores, partindo do absoluto zero.
 
 ---
 
