@@ -145,6 +145,8 @@ PRODUTOS DISPONIVEIS PARA ENSINO (data/produtos_financeiros.json):
 
 > Mostre um exemplo de como os dados são formatados para o agente.
 
+O exemplo de contexto abaixo, se baseia nos dados originais da base de conhecimento, mas os sintetiza deixando apenas as informações mais relevantes, otimizando assim o consumo de tokens. Entretanto, vale lembrar que mais importante do que economizar tokens, é ter todas as informações relevantes disponiveis em seu contexto.
+
 ```
 DADOS DO CLIENTE:
 - Nome: João Silva
