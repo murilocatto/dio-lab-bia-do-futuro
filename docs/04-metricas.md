@@ -48,6 +48,18 @@ Crie testes simples para validar seu agente:
 
 ---
 
+## Formulário de Feedback[cite: 1]
+
+Use com os participantes do teste:
+
+| Métrica | Pergunta | Nota (1-5) |
+| :--- | :--- | :--- |
+| Assertividade | "A resposta respondeu sua pergunta?" | ___ |
+| Segurança | "As informações pareceram confiáveis?" | ___ |
+| Coerência | "A linguagem foi clara e fácil de entender?" | ___ |
+
+**Comentário aberto:** O que poderia melhorar?
+
 ## Resultados
 
 Após os testes, registre suas conclusões:
