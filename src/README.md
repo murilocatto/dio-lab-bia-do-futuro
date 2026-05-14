@@ -15,13 +15,6 @@ ollama run llama3.2:3b "Olá"
 
 Todo código fonte esta no arquivo `app.py`.
 
-## Estrutura Sugerida
-
-```
-src/
-├── app.py              # Aplicação principal (Streamlit)
-```
-
 ## como rodar
 
 ```bash
@@ -33,22 +26,4 @@ ollama serve
 
 # 3. Rodar o app
 streamlit run app.py
-```
-
-## Exemplo de requirements.txt
-
-```
-streamlit
-openai
-python-dotenv
-```
-
-## Como Rodar
-
-```bash
-# Instalar dependências
-pip install -r requirements.txt
-
-# Rodar a aplicação
-streamlit run .\src\app.py
 ```
